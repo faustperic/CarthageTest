@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "095672012a6cfafdc669f7681854359de7ba4436",
+  "iOS" : [
+    {
+      "name" : "testCarhtageFramework",
+      "hash" : "9d212e36df151d0ba7d010268eeae04b91990590e4bda50f4765a769d1fa9293"
+    }
+  ]
+}
